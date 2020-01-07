@@ -122,6 +122,7 @@ __加粗__
 ~~删除~~
 
 # 11 公式
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 $df = ad$
 
