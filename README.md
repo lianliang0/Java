@@ -89,6 +89,13 @@ for( i = 1; i < 10; i++){
       if(a[i] == 10)
         print("a[%d] = %d \n", i, a[i]);
       }
+      
+
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
 # 8 
 
 表头1 | 表头2
