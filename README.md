@@ -71,7 +71,7 @@ sdfsadfdasf
 # 6 图片
 
 ![java](http://tupian.baike.com/a2_43_87_20300543669437145007874802107_140_jpg.html "Java")
-[python]: http://tupian.baike.com/a2_43_87_20300543669437145007874802107_140_jpg
+[python]: https://cloud.tencent.com/developer/article/1455721
 
 [java]和python![python]
 
