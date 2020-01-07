@@ -78,7 +78,7 @@ sdfsadfdasf
 # 7 代码
 `i = 12`
 
-```注释
+```c
 for( i = 1; i < 10; i++){
   if(a[i] == 10)
     print("a[%d] = %d \n", i, a[i]);
