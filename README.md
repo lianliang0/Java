@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
 # md文件的使用
 # 1 标题的使用
 
@@ -122,7 +123,7 @@ __加粗__
 ~~删除~~
 
 # 11 公式
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-$df = ad$
+
+$$df = ad$$
 
