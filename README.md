@@ -1,4 +1,6 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
+
+
+
 # md文件的使用
 # 1 标题的使用
 
